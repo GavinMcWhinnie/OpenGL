@@ -1,5 +1,5 @@
 # OpenGL
-Just OpenGL nonsense
+Learning OpenGL Basics
 
 First triangle:
 <br>
